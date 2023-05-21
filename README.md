@@ -1,5 +1,5 @@
-## Jeric Nisperos
-## Aspiring Full Stack Developer
+# Jeric Nisperos
+## Full Stack Developer
 
 Welcome to my profile! I'm a Bachelor of Science in Information Systems graduate with extensive software development experience in .Net, Azure, Swagger, Jira, and Microsoft SQL. Specializing in React, Angular, and Next JS, I thrive in collaborative teams and can work seamlessly with stable technology and reliable internet. With 5 years of international client experience, I'm a great fit for any team.
 
