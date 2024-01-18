@@ -3,7 +3,7 @@
 
 Welcome to my profile! I'm a Bachelor of Science in Information Systems graduate with extensive software development experience in .Net, Azure, Swagger, Jira, and Microsoft SQL. Specializing in React, Angular, and Next JS, I thrive in collaborative teams and can work seamlessly with stable technology and reliable internet. With 5 years of international client experience, I'm a great fit for any team.
 
-My key strength lies in effective communication, honed during my time in Customer Support. Understood the importance of clear communication for building productive relationships with customers and resolving their concerns. Additionally, my experience in managing a gaming community which has 16000+ users has developed my problem-solving, communication, and time management skills in a fast-paced environment.
+My key strength lies in effective communication, honed during my time in Customer Support. Understood the importance of clear communication for building productive relationships with customers and resolving their concerns. Additionally, my experience in managing a gaming community which has 17000+ users has developed my problem-solving, communication, and time management skills in a fast-paced environment.
 
 ### Portfolio: www.jnisperos.space
 
